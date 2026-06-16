@@ -7,5 +7,4 @@ if age > 18:
     print("Adult")
 else:
     print("Minor") 
-    name3 = raghave
-    
+    name3 = "Raghave"
