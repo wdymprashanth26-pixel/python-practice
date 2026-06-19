@@ -11,5 +11,7 @@ print("the sum of two numbers is :", int(a) + int(b))
 length = input("enter the length of rectangle:")
 width = input("enter the width of rectangle:")
 print("the area of rectangle is :", int(length) * int(width))
-
+#lets do somthing different
+date = 112029 
+print("the date to remember is  :", date)
 
