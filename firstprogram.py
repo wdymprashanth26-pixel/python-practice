@@ -11,10 +11,5 @@ print("the sum of two numbers is :", int(a) + int(b))
 length = input("enter the length of rectangle:")
 width = input("enter the width of rectangle:")
 print("the area of rectangle is :", int(length) * int(width))
-#sum of two numbers 
-a = 23
-b = 27
-print(a + b) 
-name = "rah"
-print(name)
+
 
