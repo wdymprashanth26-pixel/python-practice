@@ -14,4 +14,7 @@ print("the area of rectangle is :", int(length) * int(width))
 #lets do somthing different
 date = 112029 
 print("the date to remember is  :", date)
-
+#sub of two numbers 
+a = input("enter your first value :")
+b = input("enter your second value :")
+print("the difference of two numbers is :", int(a) - int(b))
