@@ -14,5 +14,7 @@ print("the area of rectangle is :", int(length) * int(width))
 #sum of two numbers 
 a = 23
 b = 27
-print(a + b)
+print(a + b) 
+name = "rah"
+print(name)
 
