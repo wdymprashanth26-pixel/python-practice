@@ -1,25 +1,15 @@
-#print your details
-name = input("enter your name :")
-age = input("enter your age :")
-city = input("enter your city :")
-print("My name is", name ,"I am", age, "years old" , "i live in" , city )
-#add two numbers
-a = input("enter your first value:")
-b = input("enter your secound value:") 
+a = input("enter your first value : ")
+b = input("enter your second value : ")
 print("the sum of two numbers is :", int(a) + int(b))
-#fainding the area of rectangle
-length = input("enter the length of rectangle:")
-width = input("enter the width of rectangle:")
-print("the area of rectangle is :", int(length) * int(width))
-#lets do somthing different
-date = 112029 
-print("the date to remember is  :", date)
-#sub of two numbers 
+print("the difference of two numbers is :", int(a) - int(b))
+print("the product of two numbers is :", int(a) * int(b))
+print("the quotient of two numbers is :", int(a) / int(b))
+#relational operations
 a = input("enter your first value :")
 b = input("enter your second value :")
-print("the difference of two numbers is :", int(a) - int(b))
-#mult of two numbers
-a = input("enter your first value :")
-b = input("enter ypur second value ")
-print("the product of two numbers is :", int(a) * int(b))
-
+print("lets check :", int(a) == int(b))
+print("lets check :" , int(a) != int(b))
+print("lets check :" , int(a) > int(b))
+print("lets check :" , int(a) < int(b))
+print("lets check :" , int(a) >= int(b))
+print("lets check :" , int(a) <= int(b))
