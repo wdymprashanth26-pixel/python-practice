@@ -18,3 +18,8 @@ print("the date to remember is  :", date)
 a = input("enter your first value :")
 b = input("enter your second value :")
 print("the difference of two numbers is :", int(a) - int(b))
+#mult of two numbers
+a = input("enter your first value :")
+b = input("enter ypur second value ")
+print("the product of two numbers is :", int(a) * int(b))
+
